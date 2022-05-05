@@ -7,7 +7,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://raganork-qr.herokuapp.com/api"><img align="center" src="https://i.imgur.com/pUwNme8.jpeg" alt="SCAN" height="122" width="300" /></a>
+<a href="https://raganork-qr.herokuapp.com/api"><img align="center" src="https://i.imgur.com/pUwNme8.jpeg" alt="SCAN" height="50" width="200" /></a>
 <br>
 <div>
 <br>
